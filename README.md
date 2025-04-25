@@ -24,23 +24,43 @@
 I'm an enthusiastic and adaptable developer passionate about modern web tech and cloud infrastructure. I enjoy solving real-world problems, building scalable systems, and learning new things every day.
 
 ---
+### 💼 Featured Projects
 
-### 💼 Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/karan4533/attendance-management-system" target="_blank">📘 Attendance Management System</a></h4>
+      <p>
+        A web-based system for student enrollment, attendance tracking, and report generation with real-time insights.
+      </p>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=attendance-management-system&theme=radical" />
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/karan4533/shop_website" target="_blank">🛒 Shop Website</a></h4>
+      <p>
+        A responsive e-commerce landing page using HTML, CSS, and JS to showcase product features with a clean UI.
+      </p>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=shop_website&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/karan4533/python" target="_blank">🐍 Python Scripts</a></h4>
+      <p>
+        A collection of logic-based mini tools and beginner-level Python projects — great for learning and reuse.
+      </p>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=python&theme=radical" />
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/karan4533/portfolio" target="_blank">🌐 Portfolio Website</a></h4>
+      <p>
+        My personal portfolio showcasing projects, resume, and contact — built with clean HTML/CSS and deployed on Netlify.
+      </p>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=portfolio&theme=radical" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://github.com/karan4533/attendance-management-system" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=attendance-management-system&theme=radical" />
-  </a>
-  <a href="https://github.com/karan4533/shop_website" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=shop_website&theme=radical" />
-  </a>
-  <a href="https://github.com/karan4533/python" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=python&theme=radical" />
-  </a>
-  <a href="https://github.com/karan4533/portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=portfolio&theme=radical" />
-  </a>
-</p>
 
 ---
 
