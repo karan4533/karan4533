@@ -25,22 +25,42 @@ I'm an enthusiastic and adaptable developer passionate about modern web tech and
 
 ---
 
-### 💼 Projects
+### 💼 Projects That Keep Me Up at Night (In a Good Way)
 
-<p align="left">
-  <a href="https://github.com/karan4533/attendance-management-system" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=attendance-management-system&theme=radical" />
-  </a>
-  <a href="https://github.com/karan4533/shop_website" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=shop_website&theme=radical" />
-  </a>
-  <a href="https://github.com/karan4533/python" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=python&theme=radical" />
-  </a>
-  <a href="https://github.com/karan4533/portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=portfolio&theme=radical" />
-  </a>
-</p>
+<!-- Project 1 -->
+🚀 **[Attendance Management System](https://github.com/karan4533/attendance-management-system)**  
+📊 React + Firebase + Realtime Stats  
+🧠 Designed to streamline student check-ins, automate attendance, and deliver clean, exportable reports.  
+> _Because calling roll is so last semester._
+
+---
+
+<!-- Project 2 -->
+🛍️ **[Shop Website](https://github.com/karan4533/shop_website)**  
+🧱 HTML + CSS + JS (Pixel-perfect & responsive)  
+🎨 A modern product landing page designed with clean grids and a shopping-friendly vibe.  
+> _If Apple had a mini store made in HTML/CSS, it’d look like this._
+
+---
+
+<!-- Project 3 -->
+🐍 **[Python Scripts Vault](https://github.com/karan4533/python)**  
+💡 Snippets + Logic Builders + Fun Problems  
+🧰 Your friendly neighborhood script collection for quick logic testing and learning.  
+> _Why rewrite code from scratch when your future self already did it?_
+
+---
+
+<!-- Project 4 -->
+🌐 **[My Portfolio Site](https://github.com/karan4533/portfolio)**  
+📄 Built with love (and HTML/CSS), deployed via Netlify  
+👨‍💻 One link to rule them all — projects, resume, contact — clean & accessible.  
+> _A developer's digital handshake._
+
+---
+
+🎯 _More projects in progress..._ [Check all on GitHub →](https://github.com/karan4533?tab=repositories)
+
 
 ---
 
