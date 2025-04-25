@@ -1,87 +1,114 @@
-<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Karan</h1>
-<h3 align="left">A passionate Full Stack Developer from India</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+M.L.;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+</h1>
+
+---
+
+<p align="center">
+  🌍 Erode, Tamil Nadu | 📧 <a href="mailto:mlkaran2004@gmail.com">mlkaran2004@gmail.com</a> | 📞 +91 7448907020  
+  <br />
+  🎓 M.Tech Integrated (CSE) @ VIT-AP (Virtusa Collaboration)
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1bndXZCn-96x27mLy4sPeVuIA9NoPSe9s/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-green?style=for-the-badge&logo=google-drive" alt="Download CV" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm an enthusiastic and adaptable developer passionate about modern web tech and cloud infrastructure. I enjoy solving real-world problems, building scalable systems, and learning new things every day.
+
+---
+
+### 💼 Projects
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=karan4533&label=Profile%20views&color=0e75b6&style=flat" alt="karan4533" />
-</p>
-
-- 🔭 I’m currently working on **Web Development & DevOps Projects**  
-- 🌱 I’m currently learning **Cloud Architecture, Docker, GitHub Actions**  
-- 💬 Ask me about **Web Development, APIs, MongoDB, Firebase**  
-- 📫 Reach me at **mlkaran2004@gmail.com**
-
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://github.com/karan4533/attendance-management-system" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=attendance-management-system&theme=radical" />
+  </a>
+  <a href="https://github.com/karan4533/shop_website" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=shop_website&theme=radical" />
+  </a>
+  <a href="https://github.com/karan4533/python" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=python&theme=radical" />
+  </a>
+  <a href="https://github.com/karan4533/portfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=portfolio&theme=radical" />
+  </a>
 </p>
 
 ---
 
-<h3 id="currently-working">⚙️ Currently Working On</h3>
+### ⚙️ Currently Working On
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F78C6C&width=1000&center=true&lines=Astro+Portfolio+with+Netlify+CI/CD;Cloud+infra+on+AWS+%26+Docker;Redis+%2B+Firebase+Integration;Open+Source+Web+Projects" alt="Live Ticker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F78C6C&width=1000&center=true&lines=Improving+my+Portfolio+Website+using+Astro+and+Netlify;Building+DevOps+projects+on+AWS+with+Docker+%26+GitHub+Actions;Exploring+real-time+data+with+Firebase+%26+Redis;Contributing+to+Open+Source+Projects" alt="Working On" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karan4533&show_icons=true&locale=en&theme=radical" alt="karan4533 GitHub Stats" />
-</p>
+### 🛠️ Animated Tech Stack
 
-<h3 align="left">🔥 Streak Stats</h3>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan4533&theme=radical" alt="karan4533 Streak Stats" />
-</p>
-
----
-
-<h3 align="left">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karan4533&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,nodejs,svelte,mongodb,mysql,firebase,redis,docker,aws,git,github,figma" />
 </p>
 
 ---
 
-<h3 align="left">📂 Coding Activity (WakaTime)</h3>
-<details>
-  <summary>View Wakatime Stats</summary>
-  <p align="center">
-    <img src="https://wakatime.com/share/@your_wakatime_id_here/time.svg" height="400" />
-    <img src="https://wakatime.com/share/@your_wakatime_id_here/languages.svg" height="400" />
-  </p>
-</details>
+### 📜 Certifications
+
+- National Hackathon 2022 – IIEC, VIT-AP  
+- Mobile App Development – Blockchain Club  
+- Cybersecurity: Patch Management – Syxsense  
+- Bootcamp on LLM Security – Null Vijayawada  
+- MATLAB Onramp – MathWorks
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
+### 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/karan45" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karan45" height="30" width="40" /></a>
-  <a href="https://twitter.com/karan_ml3" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karan_ml3" height="30" width="40" /></a>
-  <a href="https://instagram.com/karan_45_1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karan_45_1" height="30" width="40" /></a>
-  <a href="mailto:mlkaran2004@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mlkaran2004@gmail.com" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/karan45/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://twitter.com/karan_ml3" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/karan_45_1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="mailto:mlkaran2004@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40"/>
+  </a>
 </p>
 
 ---
 
-📄 **Download My Resume**  
-<a href="https://drive.google.com/file/d/1bndXZCn-96x27mLy4sPeVuIA9NoPSe9s/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Karan_M.L-green?style=for-the-badge&logo=google-drive" />
-</a>
+### 📊 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=karan4533&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=karan4533&show_icons=true&theme=default" media="(prefers-color-scheme: light)">
+    <img src="https://github-readme-stats.vercel.app/api?username=karan4533&show_icons=true" />
+  </picture>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan4533&layout=compact&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan4533&theme=radical" />
+</div>
 
 ---
 
-🔚 **Last Edited on:** 25/04/2025  
-⭐️ Credits: [Karan M.L](https://github.com/karan4533)
+### 🧱 Contribution Graph
+
+[![Karan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=karan4533&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+> Thanks for stopping by! Let's connect and build something awesome together 🚀
