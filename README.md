@@ -111,4 +111,4 @@ I'm an enthusiastic and adaptable developer passionate about modern web tech and
 
 ---
 
-> Thanks for stopping by! Let's connect and build something awesome together 🚀
+> By Karan 🚀
