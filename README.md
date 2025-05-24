@@ -8,7 +8,7 @@
 <p align="center">
   🌍 Erode, Tamil Nadu | 📧 <a href="mailto:mlkaran2004@gmail.com">mlkaran2004@gmail.com</a> | 📞 +91 7448907020  
   <br />
-  🎓 M.Tech Integrated (CSE) @ VIT-AP (Virtusa Collaboration)
+  🎓 M.Tech Integrated (CSE) @ VIT-AP
 </p>
 
 <p align="center">
