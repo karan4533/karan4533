@@ -114,6 +114,7 @@ I'm an enthusiastic and adaptable developer passionate about modern web tech and
 
 [![Karan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=karan4533&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 ---
 
 > By Karan 🚀
