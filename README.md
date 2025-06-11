@@ -32,16 +32,16 @@ I'm an enthusiastic and adaptable developer passionate about modern web tech and
 ### 💼 Projects
 
 <p align="left">
-  <a href="https://github.com/karan4533/attendance-management-system" target="_blank">
+  <a href="https://github.com/Sundararaman28/hackathon-main" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=attendance-management-system&theme=radical" />
   </a>
-  <a href="https://github.com/karan4533/shop_website" target="_blank">
+  <a href="https://github.com/karan4533/geminiclone-main" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=shop_website&theme=radical" />
   </a>
-  <a href="https://github.com/karan4533/python" target="_blank">
+  <a href="https://github.com/karan4533/new-langchain" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=python&theme=radical" />
   </a>
-  <a href="https://github.com/karan4533/portfolio" target="_blank">
+  <a href="https://github.com/karan4533/terminal-resume" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=portfolio&theme=radical" />
   </a>
 </p>
