@@ -74,7 +74,7 @@ I'm an enthusiastic and adaptable developer passionate about modern web tech and
 - Cybersecurity: Patch Management – Syxsense  
 - Bootcamp on LLM Security – Null Vijayawada  
 - MATLAB Onramp – MathWorks
-
+- Letter of Recommendation – Web Development for Suwate24 Conference, VIT-AP
 ---
 
 ### 🌐 Connect with Me
