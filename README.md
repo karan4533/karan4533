@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+M.L.;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Turning+ideas+into+full-stack+web+experiences." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=28&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+M.L.;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Turning+ideas+into+full-stack+web+experiences." alt="Typing SVG" />
 </h1>
 
 
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1rbCgDsw-2dPKhWi2FMBA7Jf80_uzpp0o/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-green?style=for-the-badge&logo=google-drive" alt="Download CV" />
+    <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-green?style=for-the-badge&amp;logo=google-drive" alt="Download CV" />
   </a>
 </p>
 
@@ -35,16 +35,16 @@ I'm an enthusiastic and adaptable developer passionate about modern web tech and
 
 <p align="left">
   <a href="https://github.com/Sundararaman28/hackathon-main" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sundararaman28&repo=hackathon-main&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sundararaman28&amp;repo=hackathon-main&amp;theme=radical" />
   </a>
   <a href="https://github.com/karan4533/geminiclone-main" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=geminiclone-main&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&amp;repo=geminiclone-main&amp;theme=radical" />
   </a>
   <a href="https://github.com/karan4533/new-langchain" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=new-langchain&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&amp;repo=new-langchain&amp;theme=radical" />
   </a>
   <a href="https://github.com/karan4533/terminal-resume" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=terminal-resume&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&amp;repo=terminal-resume&amp;theme=radical" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ I'm an enthusiastic and adaptable developer passionate about modern web tech and
 ### ⚙️ Currently Working On
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F78C6C&width=1000&center=true&lines=Improving+my+Portfolio+Website+using+Astro+and+Netlify;Building+DevOps+projects+on+AWS+with+Docker+%26+GitHub+Actions;Exploring+real-time+data+with+Firebase+%26+Redis;Contributing+to+Open+Source+Projects" alt="Working On" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=F78C6C&amp;width=1000&amp;center=true&amp;lines=Improving+my+Portfolio+Website+using+Astro+and+Netlify;Building+DevOps+projects+on+AWS+with+Docker+%26+GitHub+Actions;Exploring+real-time+data+with+Firebase+%26+Redis;Contributing+to+Open+Source+Projects" alt="Working On" />
 </p>
 
 ---
@@ -100,21 +100,21 @@ I'm an enthusiastic and adaptable developer passionate about modern web tech and
 
 <div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=karan4533&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=karan4533&show_icons=true&theme=default" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api?username=karan4533&show_icons=true" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=karan4533&amp;show_icons=true&amp;theme=dark" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=karan4533&amp;show_icons=true&amp;theme=default" media="(prefers-color-scheme: light)">
+    <img src="https://github-readme-stats.vercel.app/api?username=karan4533&amp;show_icons=true" />
   </picture>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan4533&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan4533&amp;layout=compact&amp;theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan4533&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan4533&amp;theme=radical" />
 </div>
 
 ---
 
 ### 🧱 Contribution Graph
 
-[![Karan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=karan4533&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Karan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=karan4533&amp;theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
