@@ -54,8 +54,9 @@ I'm an enthusiastic and adaptable developer passionate about modern web tech and
 ### ⚙️ Currently Working On
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F78C6C&width=1000&center=true&lines=Improving+my+Portfolio+Website+using+Astro+and+Netlify;Building+DevOps+projects+on+AWS+with+Docker+%26+GitHub+Actions;Exploring+real-time+data+with+Firebase+%26+Redis;Contributing+to+Open+Source+Projects" alt="Working On" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F78C6C&width=1000&center=true&lines=Developing+a+Project+Management+System+for+my+Intern+Company;Designing+UI%2FUX+and+Optimizing+Performance;Integrating+Real-time+Features+using+MySQL+and+PHP;Collaborating+on+GitHub+for+Version+Control;Enhancing+Project+Tracking+and+Team+Productivity" alt="Working On" />
 </p>
+
 
 ---
 
