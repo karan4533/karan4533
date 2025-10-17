@@ -115,10 +115,7 @@ I'm an enthusiastic and adaptable developer passionate about modern web tech and
 
 ### 🧱 Contribution Graph
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karan4533&theme=dracula" alt="Karan's GitHub Activity Graph" width="700"/>
-</a>
-
+![Karan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karan4533&theme=dracula)
 
 ---
 
