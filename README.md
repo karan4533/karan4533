@@ -63,7 +63,7 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
 ### 🛠️ Animated Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,svelte,tailwind,html,css,nodejs,mysql,postgres,mongodb,firebase,redis,neo4j,docker,cloudflare,git,github,figma,netlify,aws,tableau,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,svelte,tailwind,html,css,nodejs,mysql,postgres,mongodb,firebase,redis,docker,cloudflare,git,github,figma,netlify,aws,tableau,powerbi" />
 </p>
 
 ---
