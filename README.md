@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1IJPIFP1y-rEW4K3xkjSlG-7e0-JFzhHN/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1NmZcnWx96WQM8w_80str7J-bcD5jcjjo/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-green?style=for-the-badge&logo=google-drive" alt="Download CV" />
   </a>
 </p>
