@@ -54,19 +54,20 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
 ### ⚙️ Currently Working On
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F78C6C&width=1000&center=true&lines=Developing+a+Project+Management+System+for+my+Intern+Company;Designing+UI%2FUX+and+Optimizing+Performance;Integrating+Real-time+Features+using+MySQL+and+PHP;Collaborating+on+GitHub+for+Version+Control;Enhancing+Project+Tracking+and+Team+Productivity" alt="Working On" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F78C6C&width=1000&center=true&lines=Building+a+PDF-to-XML+Extraction+Tool+at+GGS+Information+Services;Implementing+OCR,+Parsing,+and+Large+File+Processing;Designing+a+Modular+Backend+Using+Python+3.13;Building+a+Project+Management+System+for+Internal+Workflows;Developing+Real-time+Dashboards+and+Session+Management;Optimizing+Performance+and+Automation+Workflows" alt="Working On" />
 </p>
 
-
 ---
+
 
 ### 🛠️ Animated Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,nodejs,svelte,mongodb,mysql,firebase,redis,docker,aws,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,svelte,tailwind,html,css,nodejs,mysql,postgres,mongodb,firebase,redis,neo4j,docker,cloudflare,git,github,figma,netlify,aws,tableau,powerbi" />
 </p>
 
 ---
+
 
 ### 📜 Certifications
 
