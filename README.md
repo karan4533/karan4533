@@ -29,9 +29,7 @@
 
 ### 🚀 About Me
 
-An enthusiastic and adaptable Computer Science student with strong technical and analytical skills, focused on solving real-world
-problems through innovative technology solutions. Passionate about AI, continuous learning, and building impactful products
-through collaborative development.
+Enthusiastic Computer Science student with strong technical skills, passionate about AI, continuous learning, and building impactful products.
 ---
 
 ### 💼 Projects
