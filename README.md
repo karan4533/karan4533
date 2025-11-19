@@ -110,16 +110,18 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan4533&layout=compact&theme=radical" height="165" />
     </td>
   </tr>
+
   <tr>
     <td align="center" colspan="2">
       <strong>Contribution Graph</strong><br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan4533&theme=react-dark&hide_border=true&area=true" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan4533&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
     </td>
   </tr>
+
   <tr>
     <td align="center" colspan="2">
       <strong>Streak Stats</strong><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan4533&theme=radical" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan4533&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
