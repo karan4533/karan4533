@@ -98,22 +98,6 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=karan4533&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=karan4533&show_icons=true&theme=default" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api?username=karan4533&show_icons=true" />
-  </picture>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan4533&layout=compact&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan4533&theme=radical" />
-</div>
-
----
-
 ### 🧱 Contribution Graph
 
 ![Karan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karan4533&theme=dracula)
