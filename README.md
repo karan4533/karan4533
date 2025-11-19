@@ -29,8 +29,9 @@
 
 ### 🚀 About Me
 
-I'm an enthusiastic and adaptable developer passionate about modern web tech and cloud infrastructure. I enjoy solving real-world problems, building scalable systems, and learning new things every day.
-
+An enthusiastic and adaptable Computer Science student with strong technical and analytical skills, focused on solving real-world
+problems through innovative technology solutions. Passionate about AI, continuous learning, and building impactful products
+through collaborative development.
 ---
 
 ### 💼 Projects
