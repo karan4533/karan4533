@@ -125,10 +125,6 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
 </table>
 
 ---
-### 🧱 Contribution Graph
 
-![Karan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karan4533&theme=dracula)
-
----
 
 > By Karan 🚀
