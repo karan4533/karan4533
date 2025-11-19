@@ -113,7 +113,7 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
 
   <tr>
     <td align="center" colspan="2">
-      <strong>Contribution Graph</strong><br/>
+      <strong>  </strong><br/>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan4533&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
     </td>
   </tr>
