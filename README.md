@@ -54,7 +54,7 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
 ### ⚙️ Currently Working On
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F78C6C&width=1000&center=true&lines=Building+a+PDF-to-XML+Extraction+Tool+at+GGS+Information+Services;Implementing+OCR,+Parsing,+and+Large+File+Processing;Designing+a+Modular+Backend+Using+Python+3.13;Building+a+Project+Management+System+for+Internal+Workflows;Developing+Real-time+Dashboards+and+Session+Management;Optimizing+Performance+and+Automation+Workflows" alt="Working On" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F78C6C&width=1000&center=true&lines=Building+a+PDF-to-XML+Extraction+Tool+at+GGS+Information+Services;Implementing+OCR,+Parsing,+and+Large+File+Processing;Designing+a+Modular+Backend+Using+Python+3.13;Building+a+Project+Management+System+for+Internal+Workflows;Developing+Real-time+Dashboards+and+Tasks+Management;Optimizing+Performance+and+Automation+Workflows" alt="Working On" />
 </p>
 
 ---
