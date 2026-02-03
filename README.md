@@ -71,12 +71,11 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
 
 ### 📜 Certifications
 
-- National Hackathon 2022 – IIEC, VIT-AP  
-- Mobile App Development – Blockchain Club  
-- Cybersecurity: Patch Management – Syxsense  
-- Bootcamp on LLM Security – Null Vijayawada  
-- MATLAB Onramp – MathWorks
-- Letter of Recommendation – Web Development for Suwate24 Conference, VIT-AP
+- National Hackathon 2022 – IIEC, VIT-AP
+- Full Stack Web Development Bootcamp - AI Integrated (March 18, 2025)
+- Bootcamp on LLM Security (2025–2026) – Null Vijayawada
+- Letter of Recommendation – Web Development for Suwate24 Conference, VIT-AP (May 2025) – Dr. Subbaiah Muthu Prabhu
+- Star of the Month Award – GGS Information Services India Pvt. Ltd. (January 2026)
 ---
 
 ### 🌐 Connect with Me
