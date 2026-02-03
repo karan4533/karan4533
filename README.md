@@ -30,14 +30,16 @@
 🚀 **About Me**  
 Enthusiastic Computer Science student with strong technical skills, passionate about AI, continuous learning, and building impactful products.
 
+
 ## 💼 Live Projects
 
-| Project | Live Demo | 
-|--------|-----------|------|
-| Project Management system | https://ggs-ruby.vercel.app | 
-| Gemini Clone | https://geminiclone-main.vercel.app | 
-| Terminal Resume | https://terminal-resume-karan.vercel.app | 
-|Generate  Medical Certificate | https://medical-certificate-coral.vercel.app | 
+| Project | Live Demo |
+|--------|-----------|
+| Project Management system | https://ggs-ruby.vercel.app |
+| Gemini Clone | https://geminiclone-main.vercel.app |
+| Terminal Resume | https://terminal-resume-karan.vercel.app |
+| Generate  Medical Certificate | https://medical-certificate-coral.vercel.app |
+
 
 
 
