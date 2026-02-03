@@ -32,12 +32,12 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
 
 ## 💼 Live Projects
 
-| Project | Live Demo | Tech |
+| Project | Live Demo | 
 |--------|-----------|------|
-| GGS Ruby | https://ggs-ruby.vercel.app | React, Node |
-| Gemini Clone | https://geminiclone-main.vercel.app | Next.js, AI |
-| Terminal Resume | https://terminal-resume-karan.vercel.app | HTML, JS |
-| Medical Certificate | https://medical-certificate-coral.vercel.app | React |
+| Project Management system | https://ggs-ruby.vercel.app | 
+| Gemini Clone | https://geminiclone-main.vercel.app | 
+| Terminal Resume | https://terminal-resume-karan.vercel.app | 
+|Generate  Medical Certificate | https://medical-certificate-coral.vercel.app | 
 
 
 
