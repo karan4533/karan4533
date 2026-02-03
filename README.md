@@ -33,21 +33,14 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
 
 ## 💼 Live Projects
 
-### 🔹 GGS Ruby
-🌐 Live: https://ggs-ruby.vercel.app  
-📂 Code: https://github.com/Sundararaman28/hackathon-main
+[![GGS Ruby](https://raw.githubusercontent.com/karan4533/portfolio-assets/main/ggs.png)](https://ggs-ruby.vercel.app)
 
-### 🔹 Gemini Clone
-🌐 Live: https://geminiclone-main.vercel.app  
-📂 Code: https://github.com/karan4533/geminiclone-main
+[![Gemini Clone](https://raw.githubusercontent.com/karan4533/portfolio-assets/main/gemini.png)](https://geminiclone-main.vercel.app)
 
-### 🔹 Terminal Resume
-🌐 Live: https://terminal-resume-karan.vercel.app  
-📂 Code: https://github.com/karan4533/terminal-resume
+[![Terminal Resume](https://raw.githubusercontent.com/karan4533/portfolio-assets/main/terminal.png)](https://terminal-resume-karan.vercel.app)
 
-### 🔹 Medical Certificate Generator
-🌐 Live: https://medical-certificate-coral.vercel.app  
-📂 Code: https://github.com/karan4533/medical-certificate
+[![Medical Certificate](https://raw.githubusercontent.com/karan4533/portfolio-assets/main/medical.png)](https://medical-certificate-coral.vercel.app)
+
 
 
 
