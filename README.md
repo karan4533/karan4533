@@ -31,22 +31,16 @@
 Enthusiastic Computer Science student with strong technical skills, passionate about AI, continuous learning, and building impactful products.
 
 
-### 💼 Projects
+## 💼 Projects
 
-<p align="left">
-  <a href="https://github.com/Sundararaman28/hackathon-main" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sundararaman28&repo=hackathon-main&theme=radical" />
-  </a>
-  <a href="https://github.com/karan4533/geminiclone-main" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=geminiclone-main&theme=radical" />
-  </a>
-  <a href="https://github.com/karan4533/new-langchain" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=new-langchain&theme=radical" />
-  </a>
-  <a href="https://github.com/karan4533/terminal-resume" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=terminal-resume&theme=radical" />
-  </a>
-</p>
+[![hackathon-main](https://github-readme-stats.vercel.app/api/pin/?username=Sundararaman28&repo=hackathon-main&theme=radical)](https://github.com/Sundararaman28/hackathon-main)
+
+[![geminiclone-main](https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=geminiclone-main&theme=radical)](https://github.com/karan4533/geminiclone-main)
+
+[![new-langchain](https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=new-langchain&theme=radical)](https://github.com/karan4533/new-langchain)
+
+[![terminal-resume](https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=terminal-resume&theme=radical)](https://github.com/karan4533/terminal-resume)
+
 
 
 ---
