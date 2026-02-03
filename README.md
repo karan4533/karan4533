@@ -30,16 +30,14 @@
 🚀 **About Me**  
 Enthusiastic Computer Science student with strong technical skills, passionate about AI, continuous learning, and building impactful products.
 
-
 ## 💼 Live Projects
 
-[![GGS Ruby](https://raw.githubusercontent.com/karan4533/portfolio-assets/main/ggs.png)](https://ggs-ruby.vercel.app)
-
-[![Gemini Clone](https://raw.githubusercontent.com/karan4533/portfolio-assets/main/gemini.png)](https://geminiclone-main.vercel.app)
-
-[![Terminal Resume](https://raw.githubusercontent.com/karan4533/portfolio-assets/main/terminal.png)](https://terminal-resume-karan.vercel.app)
-
-[![Medical Certificate](https://raw.githubusercontent.com/karan4533/portfolio-assets/main/medical.png)](https://medical-certificate-coral.vercel.app)
+| Project | Live Demo | Tech |
+|--------|-----------|------|
+| GGS Ruby | https://ggs-ruby.vercel.app | React, Node |
+| Gemini Clone | https://geminiclone-main.vercel.app | Next.js, AI |
+| Terminal Resume | https://terminal-resume-karan.vercel.app | HTML, JS |
+| Medical Certificate | https://medical-certificate-coral.vercel.app | React |
 
 
 
