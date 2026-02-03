@@ -31,15 +31,23 @@
 Enthusiastic Computer Science student with strong technical skills, passionate about AI, continuous learning, and building impactful products.
 
 
-## 💼 Projects
+## 💼 Live Projects
 
-[![hackathon-main](https://github-readme-stats.vercel.app/api/pin/?username=Sundararaman28&repo=hackathon-main&theme=radical)](https://github.com/Sundararaman28/hackathon-main)
+### 🔹 GGS Ruby
+🌐 Live: https://ggs-ruby.vercel.app  
+📂 Code: https://github.com/Sundararaman28/hackathon-main
 
-[![geminiclone-main](https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=geminiclone-main&theme=radical)](https://github.com/karan4533/geminiclone-main)
+### 🔹 Gemini Clone
+🌐 Live: https://geminiclone-main.vercel.app  
+📂 Code: https://github.com/karan4533/geminiclone-main
 
-[![new-langchain](https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=new-langchain&theme=radical)](https://github.com/karan4533/new-langchain)
+### 🔹 Terminal Resume
+🌐 Live: https://terminal-resume-karan.vercel.app  
+📂 Code: https://github.com/karan4533/terminal-resume
 
-[![terminal-resume](https://github-readme-stats.vercel.app/api/pin/?username=karan4533&repo=terminal-resume&theme=radical)](https://github.com/karan4533/terminal-resume)
+### 🔹 Medical Certificate Generator
+🌐 Live: https://medical-certificate-coral.vercel.app  
+📂 Code: https://github.com/karan4533/medical-certificate
 
 
 
