@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1NmZcnWx96WQM8w_80str7J-bcD5jcjjo/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Ct7YYToh7nce0HKxRbERRQz6EESTLOqU/view" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-green?style=for-the-badge&logo=google-drive" alt="Download CV" />
   </a>
 </p>
@@ -91,7 +91,6 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40"/>
   </a>
 </p>
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
