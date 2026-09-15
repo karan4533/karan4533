@@ -91,46 +91,6 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats & Contributions
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>GitHub Stats</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=karan4533&show_icons=true&theme=radical" height="165" />
-    </td>
-    <td align="center">
-      <strong>Top Languages</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan4533&layout=compact&theme=radical" height="165" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="2">
-      <strong>Contribution Graph</strong><br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan4533&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="2">
-      <strong>Streak Stats</strong><br/>
-      <img src="https://streak-stats.demolab.com/?user=karan4533&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karan4533&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 <p align="center">
