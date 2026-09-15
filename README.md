@@ -118,7 +118,7 @@ Enthusiastic Computer Science student with strong technical skills, passionate a
   <tr>
     <td align="center" colspan="2">
       <strong>Streak Stats</strong><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan4533&theme=radical&hide_border=true" />
+      <img src="https://streak-stats.demolab.com/?user=karan4533&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
