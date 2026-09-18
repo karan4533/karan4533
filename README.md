@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  🌍 Erode, Tamil Nadu &nbsp;|&nbsp; 📧 <a href="mailto:mlkaran2004@gmail.com">mlkaran2004@gmail.com</a> &nbsp;|&nbsp; 📞 +91 7448907020
+  🌍 Erode, Tamil Nadu &nbsp;|&nbsp; 📧 <a href="mailto:mlkaran2004@gmail.com">mlkaran2004@gmail.com</a> &nbsp;|&nbsp; 📞 +91 744890
   <br />
   🎓 M.Tech Integrated (CSE) @ VIT-AP
 </p>
